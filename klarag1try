@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Try on the Glasses</title>
+</head>
+<body style="text-align:center;">
+  <h1>Tap below to try on the glasses in AR</h1>
+  <a rel="ar" href="klarag1try.usdz">
+
+  </a>
+</body>
+</html>
